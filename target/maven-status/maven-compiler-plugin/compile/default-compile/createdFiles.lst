@@ -1,0 +1,5 @@
+com\test\controller\HelloMessageService.class
+com\test\controller\DataRepository.class
+com\test\SpringBootConsoleApplication.class
+com\test\controller\UserController.class
+com\test\controller\User.class
